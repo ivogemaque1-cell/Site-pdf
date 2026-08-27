@@ -9,7 +9,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
   return (
     <PageLayout title="Sobre nós" onBack={onBack}>
       <p>
-        O PDF Conversões de uma necessidade simples: encontrar uma forma rápida e
+        O PDF Conversões surge de uma necessidade simples: encontrar uma forma rápida e
         confiável de editar arquivos PDF sem precisar instalar programas pesados ou confiar
         documentos sensíveis a servidores desconhecidos.
       </p>
