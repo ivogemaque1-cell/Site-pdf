@@ -20,7 +20,7 @@ export function ContactPage({ onBack }: ContactPageProps) {
             href="mailto:ivogemaque1@gmail.com"
             className="text-[#2D5A43] underline"
           >
-            contato:ivogemaque1@gmail.com
+            contato@ivogemaque1@gmail.com
           </a>
         </p>
         <p className="text-sm text-[#7F8C8D]">Tempo médio de resposta: até 2 dias úteis</p>
