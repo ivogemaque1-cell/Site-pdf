@@ -9,7 +9,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
   return (
     <PageLayout title="Sobre nós" onBack={onBack}>
       <p>
-        O PDF Express nasceu de uma necessidade simples: encontrar uma forma rápida e
+        O PDF Conversões de uma necessidade simples: encontrar uma forma rápida e
         confiável de editar arquivos PDF sem precisar instalar programas pesados ou confiar
         documentos sensíveis a servidores desconhecidos.
       </p>
@@ -22,7 +22,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
         confidenciais nunca saem do seu computador.
       </p>
       <p>
-        Nosso objetivo é manter o PDF Express gratuito, acessível e útil para qualquer pessoa
+        Nosso objetivo é manter oPDF Conversões gratuito, acessível e útil para qualquer pessoa
         que precise resolver tarefas comuns com arquivos PDF no dia a dia, seja para uso
         pessoal, acadêmico ou profissional.
       </p>
