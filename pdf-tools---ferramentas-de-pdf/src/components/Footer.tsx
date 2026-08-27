@@ -68,7 +68,7 @@ export default function Footer({ onNavigate }: FooterProps) {
       </div>
 
       <div className="border-t border-gray-100 py-4 text-center text-xs text-gray-400">
-        © {year} PDF Express. Todos os direitos reservados.
+        © {year} PDF Conversões. Todos os direitos reservados.
       </div>
     </footer>
   );
