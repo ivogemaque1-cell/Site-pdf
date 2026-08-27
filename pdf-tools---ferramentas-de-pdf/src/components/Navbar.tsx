@@ -30,7 +30,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTool, onBackToHome }) => 
                 </div>
                 <div>
                   <div className="flex items-center space-x-1.5">
-                    <span className="font-bold text-lg text-[#2D3436] tracking-tight">PDF Express</span>
+                    <span className="font-bold text-lg text-[#2D3436] tracking-tight">PDF Conversões</span>
                     <span className="bg-[#EAF1EC] text-[#244E39] border border-[#D0DFD5] text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider">
                       100% Local
                     </span>
