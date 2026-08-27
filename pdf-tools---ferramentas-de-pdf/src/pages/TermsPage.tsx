@@ -11,13 +11,13 @@ export function TermsPage({ onBack }: TermsPageProps) {
       <p className="text-sm text-[#7F8C8D]">Última atualização: 24 de agosto de 2026</p>
 
       <p>
-        Ao acessar e utilizar o PDF Express (pdf-conversões.com.br), você concorda com os
+        Ao acessar e utilizar o PDF Conversões (pdf-conversões.com.br), você concorda com os
         termos descritos abaixo.
       </p>
 
       <h2 className="text-xl font-semibold text-[#2D3436] mt-8 mb-2">Uso do serviço</h2>
       <p>
-        O PDF Express oferece ferramentas gratuitas para manipulação de arquivos PDF,
+        O PDF Conversões oferece ferramentas gratuitas para manipulação de arquivos PDF,
         processadas localmente no navegador do usuário. O uso do site é destinado a fins
         pessoais e profissionais lícitos.
       </p>
@@ -39,7 +39,7 @@ export function TermsPage({ onBack }: TermsPageProps) {
 
       <h2 className="text-xl font-semibold text-[#2D3436] mt-8 mb-2">Isenção de garantias</h2>
       <p>
-        O PDF Express é fornecido "como está", sem garantias de qualquer tipo. Não garantimos
+        O PDF Conversões é fornecido "como está", sem garantias de qualquer tipo. Não garantimos
         que o serviço estará livre de erros ou interrupções.
       </p>
 
