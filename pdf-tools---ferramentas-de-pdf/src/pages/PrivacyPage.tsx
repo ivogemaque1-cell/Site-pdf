@@ -11,7 +11,7 @@ export function PrivacyPage({ onBack }: PrivacyPageProps) {
       <p className="text-sm text-[#7F8C8D]">Última atualização: 24 de agosto de 2026</p>
 
       <p>
-        Esta Política de Privacidade descreve como o PDF Express (pdf-conversões.com.br)
+        Esta Política de Privacidade descreve como o PDF Conversões (pdf-conversões.com.br)
         trata as informações dos usuários.
       </p>
 
@@ -19,7 +19,7 @@ export function PrivacyPage({ onBack }: PrivacyPageProps) {
         Processamento de arquivos
       </h2>
       <p>
-        O PDF Express processa todos os arquivos PDF e imagens inteiramente no navegador do
+        O PDF Conversões processa todos os arquivos PDF e imagens inteiramente no navegador do
         usuário, utilizando tecnologias client-side. Isso significa que:
       </p>
       <ul className="list-disc pl-6 space-y-1">
