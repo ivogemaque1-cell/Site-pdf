@@ -125,7 +125,7 @@ export default function App() {
           </div>
 
           <p className="text-[#7F8C8D]">
-            PDF Express — Todas as manipulações de arquivos são executadas exclusivamente na memória do seu navegador.
+            PDF Conversões — Todas as manipulações de arquivos são executadas exclusivamente na memória do seu navegador.
           </p>
         </div>
       </footer>
